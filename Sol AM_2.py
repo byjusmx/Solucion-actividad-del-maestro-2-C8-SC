@@ -1,8 +1,8 @@
 def odd_eve(n):
     if n%2==0:
-        print(n,"is an even number")
+        print(n,"es un número par")
     else:
-        print(n, "is an odd number")
+        print(n, "es un número impar")
         
 odd_eve(5)
 odd_eve(10)
